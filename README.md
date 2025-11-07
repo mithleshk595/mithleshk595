@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Python & Frontend Projects**
 - 🌱 I’m currently learning **C, HTML, CSS, and Python**
 - 💬 Ask me about **Python, HTML, CSS, and Git**
-- 📫 Reach me at **your_email_here@gmail.com**
+- 📫 Reach me at **mithleshk0982@gmail.com**
 - ⚡ Fun fact: **I love exploring new tech & creating projects!**
 
 ---
