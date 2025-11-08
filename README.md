@@ -9,7 +9,7 @@
 - 💡 Interested in **Python, Web Development, and Problem Solving**
 - 🌱 Currently learning **C, Python, HTML, CSS**
 - 💬 Ask me about **Python, HTML, CSS, Git & GitHub**
-- 📫 Reach me at: **your_email_here@gmail.com**
+- 📫 Reach me at: **mithleshk0982@gmail.com**
 - ⚡ Fun fact: *I turn coffee into code ☕*
 
 ---
