@@ -5,7 +5,7 @@
 ---
 
 ### 🧑‍🎓 About Me
-- 🎓 I'm a **BCA student** passionate about **programming & technology**
+- 🎓 I'm a **IT student** passionate about **programming & technology**
 - 💡 Interested in **Python, Web Development, and Problem Solving**
 - 🌱 Currently learning **C, Python, HTML, CSS**
 - 💬 Ask me about **Python, HTML, CSS, Git & GitHub**
