@@ -36,6 +36,10 @@
 ---
 
 ### 📊 GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mithileshk595&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mithileshk595&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithileshk595&layout=compact&theme=radical)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mithleshk595&show_icons=true&theme=radical" alt="GitHub Stats" />
