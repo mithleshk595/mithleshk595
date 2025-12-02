@@ -36,8 +36,16 @@
 ---
 
 ### 📊 GitHub Analytics
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mithileshk595&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
 
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=mithileshk595&theme=tokyonight&hide_border=false" height="150" alt="GitHub Streak" />
 
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithileshk595&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+</p>
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mithleshk595&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithleshk595&theme=highcontrast" alt="GitHub Streak" />
