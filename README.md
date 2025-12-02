@@ -41,11 +41,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithileshk595&layout=compact&theme=radical)
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mithleshk595&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithleshk595&theme=highcontrast" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshk595&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
