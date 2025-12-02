@@ -36,10 +36,13 @@
 ---
 
 ### 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mithileshk595&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mithileshk595&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithileshk595&layout=compact&theme=radical)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mithileshk595&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithileshk595&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mithileshk595&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithileshk595&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mithileshk595&theme=2077&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mithleshk595&show_icons=true&theme=radical" alt="GitHub Stats" />
