@@ -39,6 +39,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mithileshk595&theme=highcontrast&border_radius=10)](https://git.io/streak-stats)
 ![Mithlesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithileshk595&show_icons=true&theme=highcontrast&border_radius=10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mithileshk595&layout=compact&theme=highcontrast&border_radius=10)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mithileshk595&theme=highcontrast&border_radius=10)](https://git.io/streak-stats)
 
 
 <!-- <p align="center">
