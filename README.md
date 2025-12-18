@@ -38,21 +38,22 @@
 ### 📊 GitHub Analytics
 <p align="center">
   <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mithleshks595&show_icons=true&theme=tokyonight)
+## 📊 GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mithleshks595&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mithleshk595&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mithleshk595&theme=tokyonight)
 
 ### 🧠 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshk595&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshks595&layout=compact&theme=tokyonight)
-
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
 ### 🏆 Achievements
 ### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mithleshks595&theme=tokyonight&no-frame=true&row=1&column=6)
 
 - 🧩 Completed several academic coding projects
 - 🌟 Consistent GitHub contributions
