@@ -42,9 +42,18 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mithleshks595&theme=tokyonight)
 
+### 🧠 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshks595&layout=compact&theme=tokyonight)
+
+
 ---
 
 ### 🏆 Achievements
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mithleshks595&theme=tokyonight&no-frame=true&row=1&column=6)
+
 - 🧩 Completed several academic coding projects
 - 🌟 Consistent GitHub contributions
 - 🧠 Learning new technologies daily
