@@ -38,13 +38,12 @@
 ### 📊 GitHub Analytics
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mithileshk595&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mithleshks595&show_icons=true&theme=tokyonight)
+ ![GitHub Streak](https://streak-stats.demolab.com?user=mithleshks595&theme=tokyonight)
 
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=mithileshk595&theme=tokyonight&hide_border=false" height="150" alt="GitHub Streak" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithileshk595&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+ 
+
 </p>
 
 ---
