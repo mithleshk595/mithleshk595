@@ -48,13 +48,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshk595&layout=compact&theme=tokyonight)
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=tokyonight&no-frame=true&row=1&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mithleshks595&theme=tokyonight&no-frame=true&margin-w=15)
 
----
 
 ### 🏆 Achievements
-### 🏆 GitHub Trophies
-
 - 🧩 Completed several academic coding projects
 - 🌟 Consistent GitHub contributions
 - 🧠 Learning new technologies daily
