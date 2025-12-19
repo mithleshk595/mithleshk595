@@ -44,7 +44,9 @@ Z
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mithleshk595&theme=dark)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mithleshks595&theme=onedark"/>
+</p>
 
 ### 🧠 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshk595&layout=compact&theme=tokyonight)
