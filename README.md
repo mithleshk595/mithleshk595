@@ -1,4 +1,4 @@
-Z
+
 <h1 align="center">Hi 👋, I'm Mithlesh Kumar</h1>
 <h3 align="center">💻 Computer Applications Student | Python & Web Developer</h3>
 
@@ -69,4 +69,67 @@ Z
 ---
 
 ⭐️ From [Mithlesh Kumar](https://github.com/mithleshk595)
+
+<h1 align="center">Hi 👋, I'm Mithlesh Kumar</h1>
+<h3 align="center">BCA Student | Aspiring Software Developer</h3>
+
+<p align="center">
+  🌱 Learning Web Development & Python <br>
+  💻 Interested in Frontend & Programming <br>
+  🚀 Building projects to grow every day
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mithleshks595&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mithleshks595&theme=tokyonight" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshks595&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- ✅ Completed several academic coding projects  
+- 🔥 Consistent GitHub contributions  
+- 📘 Learning new technologies daily  
+- 💡 Improving problem-solving skills  
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** Python, HTML, CSS, JavaScript  
+- **Tools:** Git, GitHub, VS Code  
+- **Currently Learning:** Advanced Python, Web Projects  
+
+---
+
+## ✨ Quote
+
+> *"The best way to predict the future is to create it."* – Abraham Lincoln
+
+---
+
+<p align="center">
+  ⭐ From <a href="https://github.com/mithleshks595">Mithlesh Kumar</a>
+</p>
+
 
