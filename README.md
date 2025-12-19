@@ -46,12 +46,6 @@
 
 <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/example.png" />
 
-## 🏆 Achievements
-
-- 🥇 Active GitHub Learner  
-- 🏆 Consistent Contributor  
-- 🚀 Open Source Enthusiast  
-
 ### 🧠 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshk595&layout=compact&theme=tokyonight)
 
