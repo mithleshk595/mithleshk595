@@ -44,12 +44,16 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mithleshk595&theme=tokyonight)
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mithleshk595&theme=dark)
+
 ### 🧠 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshk595&layout=compact&theme=tokyonight)
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=tokyonight&no-frame=true&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=darkhub)
 
 
 ### 🏆 Achievements
