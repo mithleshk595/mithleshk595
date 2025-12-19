@@ -42,8 +42,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mithleshk595&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mithleshk595&theme=tokyonight)
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mithleshk595&theme=dark)
