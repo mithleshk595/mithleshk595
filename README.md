@@ -1,4 +1,4 @@
-
+Z
 <h1 align="center">Hi 👋, I'm Mithlesh Kumar</h1>
 <h3 align="center">💻 Computer Applications Student | Python & Web Developer</h3>
 
@@ -51,8 +51,7 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=darkhub)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mithleshks595&theme=darkhub&no-frame=true&margin-w=10)
 
 ### 🏆 Achievements
 - 🧩 Completed several academic coding projects
