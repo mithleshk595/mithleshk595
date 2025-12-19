@@ -46,14 +46,15 @@ Z
 
 <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/example.png" />
 
+## 🏆 Achievements
 
+- 🥇 Active GitHub Learner  
+- 🏆 Consistent Contributor  
+- 🚀 Open Source Enthusiast  
 
 ### 🧠 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshk595&layout=compact&theme=tokyonight)
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=onedark)
 
 ### 🏆 Achievements
 - 🧩 Completed several academic coding projects
