@@ -42,11 +42,11 @@ Z
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mithleshk595&show_icons=true&theme=tokyonight)
 
-## 🔥 GitHub Streak
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mithleshks595&theme=onedark"/>
-</p>
+<img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/example.png" />
+
+
 
 ### 🧠 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshk595&layout=compact&theme=tokyonight)
