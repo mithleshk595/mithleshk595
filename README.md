@@ -51,7 +51,7 @@ Z
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mithleshks595&theme=darkhub&no-frame=true&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=onedark)
 
 ### 🏆 Achievements
 - 🧩 Completed several academic coding projects
