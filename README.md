@@ -38,7 +38,6 @@
 ### 📊 GitHub Analytics
 <p align="center">
   <!-- GitHub Stats -->
-## 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mithleshk595&show_icons=true&theme=tokyonight)
 
