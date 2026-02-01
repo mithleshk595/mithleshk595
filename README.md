@@ -44,8 +44,6 @@
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=onedark)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=gruvbox)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=flat&no-frame=true)
 
 
 
