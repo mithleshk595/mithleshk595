@@ -42,7 +42,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mithleshk595&show_icons=true&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=onedark)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=gruvbox)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=flat&no-frame=true)
+
 
 
 ### 🧠 Most Used Languages
