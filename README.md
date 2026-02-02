@@ -35,20 +35,29 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <!-- GitHub Stats -->
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mithleshk595&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mithleshk595&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=onedark)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
 
-## 🚀 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshk595&layout=compact&langs_count=8&cache_seconds=1800)
+---
 
+## 🧠 Most Used Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshk595&layout=compact&langs_count=8&hide_border=true" />
+</p>
+
+---
 
 ### 🏆 Achievements
 - 🧩 Completed several academic coding projects
