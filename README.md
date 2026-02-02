@@ -73,3 +73,61 @@
 
 ⭐️ From [Mithlesh Kumar](https://github.com/mithleshk595)
 
+# 👋 Hi, I'm Mithlesh Kumar  
+
+🎓 BCA Student | 💻 Python Learner | 🚀 Aspiring Software Developer  
+📍 Bihar, India  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mithleshk595&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshk595&layout=compact&langs_count=8&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🚀 Achievements
+- ✅ Completed several academic coding projects  
+- 🔥 Consistent GitHub contributions  
+- 📚 Learning new technologies daily  
+
+---
+
+## ✨ Quote
+> *"The best way to predict the future is to create it."* — Abraham Lincoln  
+
+---
+
+⭐ From **Mithlesh Kumar**
+
+
