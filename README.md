@@ -40,12 +40,9 @@
 
 ![Mithlesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithleshk595&show_icons=true&theme=tokyonight)
 
-
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=onedark)
 
 ---
 
