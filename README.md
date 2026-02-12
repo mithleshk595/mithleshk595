@@ -24,6 +24,12 @@
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 
 
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,c,cpp,git,github,vscode" />
+</p>
+
 
 ---
 
@@ -54,63 +60,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Mithlesh Kumar</h1>
-<h3 align="center">💻 BCA Student | Python & Web Developer | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Computer+Applications+Student;Python+Developer;Web+Development+Enthusiast;Always+Learning+New+Things" />
-</p>
 
----
 
-## 🙋‍♂️ About Me
 
-- 🎓 BCA Student from Bihar, India  
-- 💡 Passionate about Programming & Technology  
-- 🌱 Currently learning Python, C, HTML, CSS  
-- 🚀 Interested in Web Development & Problem Solving  
-- ⚡ Fun fact: I turn coffee ☕ into code  
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,c,cpp,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mithleshk595&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshk595&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mithleshk0982@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ From <b>Mithlesh Kumar</b>
-</p>
