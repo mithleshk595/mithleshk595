@@ -44,13 +44,12 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=onedark)
 
----
 
 ## 🧠 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshk595&layout=compact&langs_count=8&hide_border=true" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshk595&layout=compact&theme=tokyonight)
+---
+
 
 
 ⭐ From mithlesh kumar
