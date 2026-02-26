@@ -56,6 +56,24 @@
 
 ⭐ From mithlesh kumar
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mithleshk595&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+</p>
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=onedark&no-frame=true&margin-w=15" />
+</p>
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshk595&layout=compact&theme=tokyonight&cache_seconds=86400" />
+</p>
+
 
 
 
