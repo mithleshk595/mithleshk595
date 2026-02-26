@@ -44,18 +44,14 @@
 ## 📊 GitHub Analytics
 
 ![Mithlesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithleshk595&show_icons=true&theme=tokyonight)
-https://github-readme-stats.vercel.app/api?username=mithleshk595
+
 ## 🏆 GitHub Trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=onedark)
-https://github-profile-trophy.vercel.app/?username=mithleshk595
-
 
 ## 🧠 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshk595&layout=compact&theme=tokyonight)
-https://github-readme-stats.vercel.app/api/top-langs/?username=mithleshk595
-
 ---
 
 ⭐ From mithlesh kumar
