@@ -47,7 +47,7 @@
 
 ## 🏆 GitHub Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mithleshk595)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🧠 Most Used Languages
 
