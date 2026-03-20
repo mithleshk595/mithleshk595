@@ -45,9 +45,9 @@
 
 ![Mithlesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithleshk595&show_icons=true&theme=tokyonight)
 
-## 🏆 GitHub Trophy
+## 🏆 GitHub 
+![trophy](https://github-profile-trophy.vercel.app/?username=mithleshk595&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mithleshk595)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🧠 Most Used Languages
 
